@@ -1,1 +1,1 @@
-# ourcicddemo
+# edureka-aws-cicddemo
